@@ -1,1 +1,1 @@
-msbuild flag.c
+shutdown /r
