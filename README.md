@@ -1,2 +1,2 @@
 # Test0x01
-Test QQbot of madhouse
+Test QQbot of madhouse (version: prank)
